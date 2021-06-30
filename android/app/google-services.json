@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "568597564923",
+    "project_id": "fruitsmarket-acc75",
+    "storage_bucket": "fruitsmarket-acc75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568597564923:android:1b6fdc0a83ec8911384f5e",
+        "android_client_info": {
+          "package_name": "com.samatec.fruitsmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568597564923-ku0facll09fjqqfj3qj54ko752v7ll5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samatec.fruitsmarket",
+            "certificate_hash": "2008c2170989c94b55655fb4d93eebeabea769f9"
+          }
+        },
+        {
+          "client_id": "568597564923-e32vvlcrlj8onr73bor9sbekgqfh05qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszX2oKC8Euf8yPhlfto-il4lMUQpkvmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568597564923-e32vvlcrlj8onr73bor9sbekgqfh05qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
